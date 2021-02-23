@@ -1,0 +1,21 @@
+body {
+  background-color: #1a237e;
+  font-size: 1.2rem;
+}
+
+.banner {
+
+}
+
+.circle {
+  border-radius: 100%;
+}
+
+.hero {
+  background-image: url('img/hero.jpg');
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
